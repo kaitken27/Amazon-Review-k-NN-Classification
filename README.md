@@ -1,2 +1,2 @@
 # Amazon Review K-NN Classification
-Classified 1500 Amazon reviews from 50 different authors using k-NN classification.
+The purpose of this project was to create a machine learning model that would classify Amazon reviews by author. The data set contained word frequency data from 1500 reviews (30 reviews from 50 authors) https://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set. I also implemented a Term Frequency - Inverse Document Frequency (tf-idf) method on the data and reduced its dimensionality using PCA. $K$-Nearest Neighbor was the chosen method to classifiy the reviews.
